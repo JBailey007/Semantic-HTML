@@ -4,7 +4,7 @@
 This webpage was created/edited using HTML and CSS code.
 
 ## Installation
-You can access this webpage by visiting the following link (https://)
+You can access this webpage by visiting the following link (https://jbailey007.github.io/module-1-challenge/)
 
 ## Usage
 Click on the different sections at the top right of the page to quickly jump to the information you are interested in. 
@@ -13,6 +13,9 @@ You can access the Chrome DevTools by using `Control+Shift+I` (Windows) or `Comm
 
 # Credits
 N/A
+
+# Screenshot
+![Screenshot 2023-06-12 172653](https://github.com/JBailey007/module-1-challenge/assets/135053044/b3a1b204-7517-4767-9b1e-d3ace99f7cb5)
 
 ## License
 Please refer to the LICENSE in the repo.
