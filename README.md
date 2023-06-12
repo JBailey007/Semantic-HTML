@@ -2,7 +2,7 @@
 
 ## Description
 This webpage was created/edited using HTML and CSS code. 
-This webpage contains usefull information about Search Engine Optimization, Online Reputation Management and Social Media Marketing. 
+This webpage contains useful information about Search Engine Optimization, Online Reputation Management and Social Media Marketing. 
 
 ## Installation
 You can access this webpage by visiting the following link (https://jbailey007.github.io/module-1-challenge/)
