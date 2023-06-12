@@ -10,7 +10,10 @@
 body {
     background-color: #d9dcd6;
 }
-/* Main Header dimensions and properties */
+/* ======================================================
+   Header
+   ======================================================
+ * Main Header dimensions and properties */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -26,9 +29,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-/* ======================================================
-   Header
-   ======================================================
+/* 
  * Top right section containing links for the different information sections of the webpage */
 .header section {
     padding-top: 15px;
@@ -37,11 +38,11 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* Top right header list oriented as a row with 3 columns */
 .header section ul {
     list-style-type: none;
 }
-
+/* Header columns with left margin of 25px for correct spacing */
 .header section ul li {
     display: inline-block;
     margin-left: 25px;
@@ -61,7 +62,7 @@ p {
  * Images on the first and third section are oriented to the left with text on the right of the container.
  * Image on the second section is oriented to the right with text to the left of the container
  */
-.figure {
+.banner {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -89,6 +90,11 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+}
+
+.content-row h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 .content-row img {
@@ -139,25 +145,12 @@ p {
     max-width: 150px;
 }
 
-.content-row img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/* ==================================================
+   Footer
+   ==================================================
+ * Footer containing important legal referencing for the site and who it was made by.
+ * Contains dimensions and modifiers for the Footer.
+*/
 .footer {
     padding: 30px;
     clear: both;
