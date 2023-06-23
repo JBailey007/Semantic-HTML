@@ -1,4 +1,4 @@
-# Module-1-Challenge
+# Semantic-HTML
 
 ## Description
 This webpage was created/edited using HTML and CSS code. 
